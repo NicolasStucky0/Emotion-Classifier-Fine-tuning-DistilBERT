@@ -26,7 +26,7 @@ emotion-classifier/
 
 ### 1️⃣ Cloner le dépôt
 ```bash
-git clone [https://github.com/<ton_nom_utilisateur>/emotion-classifier.git](https://github.com/NicolasStucky0/Emotion-Classifier-Fine-tuning-DistilBERT.git)
+git clone https://github.com/NicolasStucky0/Emotion-Classifier-Fine-tuning-DistilBERT.git
 cd emotion-classifier
 ```
 
